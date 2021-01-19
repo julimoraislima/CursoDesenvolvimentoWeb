@@ -1,5 +1,5 @@
-# CursoDesenvolvimentoWeb
- Web Development Course Exercises
+### This is my repository of exercises that I've done during the course ***Desenvolvolvimento Web Full Stack*** - [ProgramadorBr](https://programadorbr.com)
+ Full Stack Web Development Course Exercises
  ***
 ## Completed Levels
 - [x] Module 1 - Introduction
