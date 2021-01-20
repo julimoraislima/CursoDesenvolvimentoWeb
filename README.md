@@ -1,3 +1,5 @@
+<img src="images/octocat-dweb-365x365px.png" align="right">
+
 ### This is my repository of exercises that I've done during the course ***Full Stack Web Development*** 
  Exercicios feitos durante o curso de Desenvolvimento Web Full Stack - [ProgramadorBr](https://programadorbr.com/)
  ***
@@ -19,4 +21,3 @@
 - [ ] Module 15 - Project
 - [ ] Module 16 - Project
 ***
-![](images/octocat-dweb-365x365px.png)
