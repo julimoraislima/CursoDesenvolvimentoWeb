@@ -7,7 +7,7 @@
 - [x] Module 1 - Introduction
 - [x] Module 2 - HTML basic
 - [x] Module 3 - CSS basic
-- [ ] Module 4 - CSS intermediate
+- [x] Module 4 - CSS intermediate
 - [ ] Module 5 - HTML intermediate
 - [ ] Module 6 - Project
 - [ ] Module 7 - Business
