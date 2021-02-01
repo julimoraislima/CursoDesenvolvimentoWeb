@@ -4,15 +4,15 @@
  Exercícios feitos durante o curso de Desenvolvimento Web Full Stack - [ProgramadorBr](https://programadorbr.com/)
  ***
 ## Completed Levels
-- [x] Module 1 - Introduction
-- [x] Module 2 - HTML basic
-- [x] Module 3 - CSS basic
-- [x] Module 4 - CSS intermediate
-- [ ] Module 5 - HTML intermediate
-- [ ] Module 6 - Project
-- [ ] Module 7 - Business
-- [ ] Module 8 - JavaScript basic
-- [ ] Module 9 - JavaScript intermediate
+- [x] Module 01 - Introduction
+- [x] Module 02 - HTML basic
+- [x] Module 03 - CSS basic
+- [x] Module 04 - CSS intermediate
+- [x] Module 05 - HTML intermediate
+- [ ] Module 06 - Project
+- [ ] Module 07 - Business
+- [ ] Module 08 - JavaScript basic
+- [ ] Module 09 - JavaScript intermediate
 - [ ] Module 10 - Project
 - [ ] Module 11 - HTML advanced
 - [ ] Module 12 - CSS advanced
