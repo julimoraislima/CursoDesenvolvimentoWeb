@@ -9,7 +9,7 @@
 - [x] Module 03 - CSS basic
 - [x] Module 04 - CSS intermediate
 - [x] Module 05 - HTML intermediate
-- [ ] Module 06 - Project
+- [x] Module 06 - Project
 - [ ] Module 07 - Business
 - [ ] Module 08 - JavaScript basic
 - [ ] Module 09 - JavaScript intermediate
